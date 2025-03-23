@@ -75,33 +75,36 @@ https://form.typeform.com/to/Eav42hR3?typeform-source=www.google.com
 
 Steps to Switch to Gemini API
 
-👉 Firstly u have to stop ur node (If its Running)
+1️⃣ Stop your running node (if it's active)
 
-👉 Delete Ur Dria Directory with this command
+2️⃣ Delete the existing Dria directory by running
 
 ```
 sudo rm -rf .dria
 ```
 
-👉Install Ur dria Launcher again
+3️⃣ Reinstall the Dria Launcher by following the earlier installation steps
 
-👉Start Ur node with start command
+4️⃣ Start your node again with the launch command
 
-👉Select `Gemini` instead of Ollama (Check SS)
+5️⃣ Choose `Gemini` instead of ‘Ollama’ (See screenshot)
 
 ![Screenshot 2025-03-22 162646](https://github.com/user-attachments/assets/412fc2c7-d191-4387-bed2-1a1fef6de19e)
 
-👉Choose Model's (check ss)     -- U can Choose One or both👇
+6️⃣ Select Your Model (Choose one or both)
 
-gemini-1.5-flash,
-
+```
+gemini-1.5-flash
 gemini-1.5-pro
+
+```
 
 ![Screenshot 2025-03-22 162731](https://github.com/user-attachments/assets/e4717d01-14c1-4ee0-b45e-0d61c58b9b18)
 
-👉Enter Gemini API Keys
+7️⃣ Enter Your Gemini API Key
+🔑 Get your API key here
 
-U can get Gemini API key From here--  https://aistudio.google.com/app/apikey
+``` https://aistudio.google.com/app/apikey ``` 
 
 
 🚀 All Set! Your node is now running with Gemini API! ✅
