@@ -1,2 +1,6 @@
 # Dria-Node-Guide
-Detailed Guide On $DRIA Node by MrcryptoTamilan
+
+Pre-requirements
+Install Ollama from here (Choose ur OS)
+
+https://ollama.com/download/linux
