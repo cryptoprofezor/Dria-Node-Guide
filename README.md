@@ -95,8 +95,6 @@ sudo rm -rf .dria
 
 ```
 gemini-1.5-flash 
-```
-```
 gemini-1.5-pro
 ``` 
 
