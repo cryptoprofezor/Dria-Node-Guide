@@ -1,18 +1,16 @@
-
-# Dria-Node-Guide
-
-
 # **Dria-Node-Guide**
 
 # Pre-requirements
 
-Install Ollama from here (Choose ur OS)
+Before you begin, install Ollama based on your operating system
 
 ```
 https://ollama.com/download/linux
 ```
 
 # Verify Installation
+
+Run the following command to check if Ollama is installed properly:
 
 ```
 ollama --version
@@ -21,61 +19,61 @@ ollama --version
 # Installation
 Linux / MacOS
 
+Execute this command to install the Dria Launcher:
+
 ```
  curl -fsSL https://dria.co/launcher | bash 
 ```
 
-# Enter Refer Code to Earn Extra Steps (Points)
+# Enter Referral Code to Earn Extra Points
 
-🙌 Run - 
+To gain additional rewards, use the following command
+
 ```
 sudo dkn-compute-launcher referrals
 ``` 
 
-Use Up - down Keys to select "Enter referral code to be referred" and Enter The Refer Code-👇
+➡️ Navigate using the arrow keys to select "Enter referral code to be referred" and input your code 👇
+📌 Note: You can use another user's referral code for this step
+✅ If successful, you should see an output like this
 
- ```
- U can Use Other Users Refer Code
-```
-
-Successfull Output Should Looks Like- ![image](https://github.com/user-attachments/assets/7d75f1c7-178d-4dc0-bc9e-a54f8657fbb9) Now u can Go-Back and start ur node!
+![image](https://github.com/user-attachments/assets/7d75f1c7-178d-4dc0-bc9e-a54f8657fbb9) Now u can Go-Back and start ur node!
 
 
 # Start Your Node
 
-This will promt u to enter your evm Private keys (without 0x) and Models!
+This will prompt you to enter your EVM private key (without "0x") and select a model
 
 ```
 sudo dkn-compute-launcher start
 ```
 
-Succesfull logs Should Looks Like-👇
+🚀 If everything runs smoothly, your logs should appear like this 👇
 
 ![image](https://github.com/user-attachments/assets/6b96a558-416c-4267-ac6e-4e2a3b202e9c)
 
-You Can check Your Node status from here-👇 (Enter Your Wallet Address)
+# Check Your Node Status
+
+To verify your node's status, enter your wallet address here 👇
 
 https://dria.co/edge-ai
 
-# Fill This Form to Get Role in Discord👇
+# Get Your Role on Discord 👇
+
+🎮 Fill out this form to get access
 
 https://form.typeform.com/to/Eav42hR3?typeform-source=www.google.com
 
 
-👉 **Join TG for more Updates:** https://telegram.me/cryptogg
-
-Thank U❤️
+👉 **Join TG for more Updates:** https://telegram.me/Mrcrypto_tamilan
 
 
 
+  # **Guide: Switching from Ollama to Gemini API**
 
+**This guide is mainly for those who cannot run Ollama due to hardware limitations or technical issues~**
 
-
-
-
-  # **Guide, How to changes Model's  {Ollama to Gemini API!}**
-
-**This is for all but mainly only for those who's Device is not capable for Running Oallam or those whom The ollama is not Working~**
+Steps to Switch to Gemini API
 
 👉 Firstly u have to stop ur node (If its Running)
 
@@ -106,7 +104,6 @@ gemini-1.5-pro
 U can get Gemini API key From here--  https://aistudio.google.com/app/apikey
 
 
-Lets Fucking Go🚀 Its Done✅
+🚀 All Set! Your node is now running with Gemini API! ✅
 
-Thank u❤️
-2764a9e (Initial commit from Dria-Node-Guide)
+❤️ Thanks for setting up your node!
